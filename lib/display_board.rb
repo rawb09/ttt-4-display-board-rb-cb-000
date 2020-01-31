@@ -11,4 +11,4 @@ def display_board
   puts "   |   |   "
 end
 
-display_board(board)
+display_board
