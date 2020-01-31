@@ -8,6 +8,5 @@ def display_board(board)
   puts "   |   |   "
 end
 
-board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
-board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
+
 display_board(board)
